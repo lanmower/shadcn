@@ -22,7 +22,6 @@
     "**/node_modules/**",
     "**/fixtures/**"
   ],
-  "task.allowAutomaticTasks": true,
   "debug.openDebug": "neverOpen",
   "terminal.integrated.inheritEnv": false,
   "tasks": {
